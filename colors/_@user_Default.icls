@@ -1,0 +1,31 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2020-07-02T14:31:00</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2020.1.2.0.0</property>
+    <property name="modified">2020-07-02T15:00:48</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
+</scheme>

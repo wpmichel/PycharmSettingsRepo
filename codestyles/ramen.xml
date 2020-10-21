@@ -1,0 +1,23 @@
+<code_scheme name="ramen" version="173">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <Python>
+    <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
+    <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_ALWAYS_SPLIT_FROM_IMPORTS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="2" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

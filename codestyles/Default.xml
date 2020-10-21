@@ -1,0 +1,22 @@
+<code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="80,120" />
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_ALWAYS_SPLIT_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+  </Python>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

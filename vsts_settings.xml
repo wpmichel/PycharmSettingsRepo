@@ -1,0 +1,47 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://microsoftit.visualstudio.com/DefaultCollection/OneITVSO/_git/FIN-AR-MRMCA-BITS-Libraries" />
+          <option name="serverUri" value="https://microsoftit.visualstudio.com" />
+          <option name="userId" value="acde7036-37e6-69a5-8830-0944978d41f8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;,&quot;name&quot;:&quot;MicrosoftIT&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projectCollections/cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568074,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;774899b8-a03d-45f9-a54e-229ea7d98f04&quot;,&quot;name&quot;:&quot;FIN-AR-MRMCA-BITS-Libraries&quot;,&quot;remoteUrl&quot;:&quot;https://microsoftit.visualstudio.com/OneITVSO/_git/FIN-AR-MRMCA-BITS-Libraries&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/git/repositories/774899b8-a03d-45f9-a54e-229ea7d98f04&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568074,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://microsoftit.visualstudio.com/DefaultCollection/OneITVSO/_git/FIN-AR-MRMCA-FINBITS" />
+          <option name="serverUri" value="https://microsoftit.visualstudio.com" />
+          <option name="userId" value="acde7036-37e6-69a5-8830-0944978d41f8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;,&quot;name&quot;:&quot;MicrosoftIT&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projectCollections/cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568362,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;7683b385-6458-4d5f-bcd5-0e1621755403&quot;,&quot;name&quot;:&quot;FIN-AR-MRMCA-FINBITS&quot;,&quot;remoteUrl&quot;:&quot;https://microsoftit.visualstudio.com/OneITVSO/_git/FIN-AR-MRMCA-FINBITS&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/git/repositories/7683b385-6458-4d5f-bcd5-0e1621755403&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568362,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://microsoftit.visualstudio.com/DefaultCollection/OneITVSO/_git/FIN-FFS-CSHF-Databricks" />
+          <option name="serverUri" value="https://microsoftit.visualstudio.com" />
+          <option name="userId" value="acde7036-37e6-69a5-8830-0944978d41f8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;,&quot;name&quot;:&quot;MicrosoftIT&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projectCollections/cdcc3dee-d62a-41ee-aded-daf587e1851b&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568371,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;a742531f-3140-4118-a22c-42d891ca2535&quot;,&quot;name&quot;:&quot;FIN-FFS-CSHF-Databricks&quot;,&quot;remoteUrl&quot;:&quot;https://microsoftit.visualstudio.com/OneITVSO/_git/FIN-FFS-CSHF-Databricks&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/git/repositories/a742531f-3140-4118-a22c-42d891ca2535&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;OneITVSO is a single VSTS project operating at enterprise scale hosting 1000s of Core Service Engineering &amp; Operations Engineering teams. To learn more, visit https://aka.ms/cseoengineeringwiki&quot;,&quot;id&quot;:&quot;3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;,&quot;name&quot;:&quot;OneITVSO&quot;,&quot;revision&quot;:568371,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://microsoftit.visualstudio.com/_apis/projects/3d1a556d-2042-4a45-9dae-61808ff33d3b&quot;}}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//microsoftit.visualstudio.com/defaultcollection/oneitvso/_git/fin-ffs-cshf-databricks" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

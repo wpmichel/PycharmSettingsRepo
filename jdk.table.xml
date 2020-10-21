@@ -1,0 +1,178 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Users\wimichel.REDMOND\AppData\Local\Programs\Python\Python37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-632393031" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ramen)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\repos\FIN-FFS-CSHF-Databricks\src\Databricks\ramen\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen/venv" type="simple" />
+            <root url="file://C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/2074256965" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/repos/FIN-FFS-CSHF-Databricks/src/Databricks/ramen" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Sandbox)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\repos\Sandbox\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/repos/Sandbox/venv" type="simple" />
+            <root url="file://C:/repos/Sandbox/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/390811633" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PythonLibraries)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\repos\FIN-AR-MRMCA-BITS-Libraries\src\PythonLibraries\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/-709532992" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (PythonLibraries)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\repos\FIN-AR-MRMCA-BITS-Libraries\src\PythonLibraries\venv35\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv35" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries/venv35/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.1/python_stubs/-1423433058" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/repos/FIN-AR-MRMCA-BITS-Libraries/src/PythonLibraries" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (soba)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\repos\FIN-AR-MRMCA-FINBITS\src\Databricks\soba\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-FINBITS/src/Databricks/soba/venv" type="simple" />
+            <root url="file://C:/repos/FIN-AR-MRMCA-FINBITS/src/Databricks/soba/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.2/python_stubs/1381987418" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/repos/FIN-AR-MRMCA-FINBITS/src/Databricks/soba" />
+    </jdk>
+  </component>
+</application>

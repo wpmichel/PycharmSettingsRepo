@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="HeadersDoc" value="&quot;&quot;&quot;&#10;ModuleName: ${NAME}.py&#10;Purpose:&#10;$PURPOSE&#10;Contains:&#10;- ${NAME}&#10;&#10;Change History:&#10;Changed by          Changed On           Comments&#10;----------          ----------           --------&#10;&quot;&quot;&quot;&#10;&#10;__author__ = &quot;$DEV_NAME (${USER})&quot;&#10;__date__ = &quot;${MONTH_NAME_FULL} ${DAY}, ${YEAR}&quot;&#10;__credit__ = &quot;&quot;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

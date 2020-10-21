@@ -1,0 +1,20 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="inspect">
+      <shortuct text="ENTER" />
+      <action id="InspectCode" />
+      <action id="GotoAction" />
+      <typing text-keycode="77:0;65:0;67:0;82:0">macr</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="67:0;82:0;79:0">cro</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="82:0;79:0">ro</typing>
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+    </macro>
+  </component>
+</application>
