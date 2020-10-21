@@ -1,0 +1,8 @@
+<application>
+  <component name="SourceryConfigService">
+    <option name="pluginVersion" value="0.8.1" />
+    <option name="sourceryConfigFolder" value="C:\Users\wimichel.REDMOND\AppData\Local\sourcery" />
+    <option name="sourceryExecutable" value="C:\Users\wimichel.REDMOND\AppData\Roaming\JetBrains\PyCharmCE2020.2\plugins\sourcery\lib\win\sourcery.exe" />
+    <option name="sourceryVersion" value="0.8.1" />
+  </component>
+</application>
