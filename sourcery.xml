@@ -3,6 +3,8 @@
     <option name="pluginVersion" value="0.8.1" />
     <option name="sourceryConfigFolder" value="C:\Users\wimichel.REDMOND\AppData\Local\sourcery" />
     <option name="sourceryExecutable" value="C:\Users\wimichel.REDMOND\AppData\Roaming\JetBrains\PyCharmCE2020.2\plugins\sourcery\lib\win\sourcery.exe" />
+    <option name="sourceryProductName" value="Open Source" />
+    <option name="sourceryToken" value="user_u0IjCZd3iYvyb5vf6AwSkN0D0FnjWxn0Pp8tj7E16O53_YfXef_U5KMUf_U" />
     <option name="sourceryVersion" value="0.8.1" />
   </component>
 </application>
